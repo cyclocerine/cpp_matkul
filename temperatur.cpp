@@ -6,6 +6,6 @@ int main() {
     cout << "konversi celsius ke fahrenheit ";
     cout << "masukan temperatur dalam celsius ";
     cin >> celcius;
-    f = (celcius * 9/5)+32 ;
-    cout << celcius << " adalah "<< f << "fahrenheit";
+    f = (celcius * 9/5)+3;
+    cout << celcius << " adalah "<< f << " fahrenheit";
 }
